@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ipod/static/css/main.619298c4.css",
+    "main.js": "/Ipod/static/js/main.7a6f7cc4.js",
+    "static/media/Senorita.mp3": "/Ipod/static/media/Senorita.4765c0c89abed635f1e2.mp3",
+    "index.html": "/Ipod/index.html",
+    "main.619298c4.css.map": "/Ipod/static/css/main.619298c4.css.map",
+    "main.7a6f7cc4.js.map": "/Ipod/static/js/main.7a6f7cc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.619298c4.css",
+    "static/js/main.7a6f7cc4.js"
+  ]
+}
